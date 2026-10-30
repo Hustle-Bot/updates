@@ -1,5 +1,5 @@
-fassung=3.101
-url=https://github.com/Hustle-Bot/updates/releases/download/v3.101/hustle-bot.jar
-sha256=1705e1e53d84db8f6c1813152899c8b54bebd4b41df14af66fe4b11f0f00ebe4
+fassung=3.123
+url=https://github.com/Hustle-Bot/updates/releases/download/v3.123/hustle-bot.jar
+sha256=667c733d27c75e981ab8a9e565d352724a0943ac2948728f64dcfa8d61c72330
 dringend=nein
 stufe=100
